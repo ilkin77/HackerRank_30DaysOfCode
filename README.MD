@@ -5,3 +5,5 @@ Day 1 -> https://www.hackerrank.com/challenges/30-data-types/problem
 Day 2 -> https://www.hackerrank.com/challenges/30-operators/problem
 
 Day 3 -> https://www.hackerrank.com/challenges/30-conditional-statements/problem
+
+Day 4 -> https://www.hackerrank.com/challenges/30-class-vs-instance/problem
