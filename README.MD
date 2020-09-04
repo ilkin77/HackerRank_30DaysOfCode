@@ -12,4 +12,6 @@ Day 5 -> https://www.hackerrank.com/challenges/30-loops/problem
 
 Day 6 -> https://www.hackerrank.com/challenges/30-review-loop/problem
 
-day 7 -> https://www.hackerrank.com/challenges/30-arrays/problem
+Day 7 -> https://www.hackerrank.com/challenges/30-arrays/problem
+
+Day 8 -> https://www.hackerrank.com/challenges/30-dictionaries-and-maps/problem
